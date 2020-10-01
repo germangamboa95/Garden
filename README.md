@@ -16,3 +16,12 @@ An API first framework for developers who want to get things done
   - Provide a way that make apps created with this easy to test
    
 
+## Code organiztion 
+All initial development will be done in this repository. 
+Eventually there will be two repositories one containing the core of the framework and the other a built example. 
+
+## Why 
+
+There seems to be a very big gap between in nodejs land between frameworks like NestJS and just using raw express, koa, or fastify.
+While there is some players in this gap such as feathersjs they are not optimal for developing things fast and seem to be overly restrictive. 
+The aim of Garden is to provide you with the tools that you need to develop applications fast while staying out of your way. 
